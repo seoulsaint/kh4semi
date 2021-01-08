@@ -1,5 +1,4 @@
-<<<<<<< HEAD
+
 오혜령
-=======
+
 강사용
->>>>>>> refs/remotes/origin/main
