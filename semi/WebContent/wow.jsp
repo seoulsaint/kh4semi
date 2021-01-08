@@ -1,5 +1,8 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
+<<<<<<< HEAD
+<h1>wow</h1>
+=======
 <!DOCTYPE html>
 <html>
 <head>
@@ -10,3 +13,4 @@
 
 </body>
 </html>
+>>>>>>> refs/remotes/origin/main
